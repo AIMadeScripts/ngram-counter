@@ -34,4 +34,5 @@ Joe12345
 then again 12345 appears after 4 characters frequently
 John12345
 
-From here we can make rules/masks based on the interpreted results.
+From here we can make rules/masks based on the interpreted results
+(for hashcat as an example)
